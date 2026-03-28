@@ -54,3 +54,5 @@ Proposal II balances platform sustainability, shareholder value, and developer i
 ---
 
 **Wallet for Proposal II:**  
+NJETHCTGFZKJKCHEXRQILIBPUAPDRKYVPPDYOEQLYBPGLTGLCJTMHJBGTIBE
+**Wallet for Proposal I:**  
