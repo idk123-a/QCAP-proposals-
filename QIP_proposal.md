@@ -1,4 +1,4 @@
-# Qubic Capital Voting Recommendation: Proposal II
+# Qubic Capital Voting Recommendation: QIP Proposal II
 
 **Date:** 28 March 2026  
 **Scope:** Shareholder Vote on Dev Fund & SC Holder Dividends
