@@ -1,8 +1,8 @@
-# Qubic Capital Voting Recommendation: QIP Proposal II
+# Qubic Capital Voting: QIP Proposal
 
 **Date:** 28 March 2026  
 **Scope:** Shareholder Vote on Dev Fund & SC Holder Dividends
-
+**Qubic Capital representatives pov**
 ---
 
 ## Background
@@ -43,17 +43,11 @@ After internal analysis, Proposal III is excluded from consideration due to its 
 
 ## Recommendation
 
-Qubic Capital recommends accepting Proposal II.
+Qubic Capital representatives recommends accepting Proposal II.
 
 ### Voting guidance for shareholders:
 - Vote YES for Proposal II  
 - Vote NO if considering Proposal I
 
 Proposal II balances platform sustainability, shareholder value, and developer incentives while supporting long-term growth of the Qubic ecosystem.
-
 ---
-
-**Wallet for Proposal II:**  
-NJETHCTGFZKJKCHEXRQILIBPUAPDRKYVPPDYOEQLYBPGLTGLCJTMHJBGTIBE
-**Wallet for Proposal I:**  
-FQRGPNBLZBGKGCDYXFWIALPBHVHDTBGECCRLGBARDCFILTUEJBPTLJUDAHWI
