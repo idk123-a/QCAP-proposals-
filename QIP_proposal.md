@@ -2,6 +2,7 @@
 
 **Date:** 28 March 2026  
 **Scope:** Shareholder Vote on Dev Fund & SC Holder Dividends
+
 **Qubic Capital representatives pov**
 ---
 
