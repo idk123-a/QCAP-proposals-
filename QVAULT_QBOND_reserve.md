@@ -49,7 +49,7 @@ No reimbursement for these expenses is requested through this proposal.
 
 ## Proposal
 
-Modify the existing burn replenishment contract to allocate a portion of the current replenishment burns to the following smart contracts:
+Modify the existing SWATCH burn replenishment contract to allocate a portion of the current replenishment burns to the following smart contracts:
 
 | Contract | Smart Contract | Replenishment Amount |
 |----------|---------------|----------------------|
