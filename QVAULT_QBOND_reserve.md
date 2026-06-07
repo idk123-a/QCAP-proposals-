@@ -4,7 +4,7 @@
 
 This proposal requests a modification of the existing burn replenishment mechanism to restore the burn reserves of QVAULT (Contract 10) and QBOND (Contract 17), which were depleted during a spam event.
 
-No funds are requested from the CCF, and no additional QUBIC will be created or distributed. The proposal only modifies how a portion of the existing replenishment burns are allocated.
+No additional funds are requested from the CCF, and no additional QUBIC will be created or distributed. The proposal only modifies how a portion of the existing SWATCH replenishment burns are allocated.
 
 ---
 
@@ -22,11 +22,15 @@ The activity primarily originated from a single address repeatedly interacting w
 
 The following screenshots illustrate examples of the transaction activity associated with the reserve depletion event:
 
-![Spam Activity 1](PLACEHOLDER_IMAGE_1)
+<img width="1680" height="1193" alt="image" src="https://github.com/user-attachments/assets/07b61a6c-e075-43d5-87e9-e379fdc544ff" />
 
-![Spam Activity 2](PLACEHOLDER_IMAGE_2)
 
-![Spam Activity 3](PLACEHOLDER_IMAGE_3)
+<img width="1145" height="776" alt="image" src="https://github.com/user-attachments/assets/7c7f10d7-00b4-4f53-89ef-82a21f14d10a" />
+
+<img width="2357" height="803" alt="image" src="https://github.com/user-attachments/assets/5a075385-7d47-4c86-a9f7-7f67e8e38c91" />
+
+<img width="2275" height="689" alt="image" src="https://github.com/user-attachments/assets/d416c12a-4301-4e32-9786-e2de5b456a09" />
+
 
 ---
 
