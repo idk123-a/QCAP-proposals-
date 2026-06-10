@@ -7,7 +7,7 @@ This proposal requests a modification of the existing burn replenishment mechani
 No additional funds are requested from the CCF, and no additional QUBIC will be created or distributed. The proposal only modifies how a portion of the existing SWATCH replenishment burns are allocated.
 No new QUBIC will be created, and no additional funds will be allocated from the CCF. The proposal only adjusts the distribution of the existing SWATCH burn replenishment mechanism.
 
-**Technical implementation:** To maintain supply neutrality, the SupplyWatcher contract will be modified to execute a one-time burn at the start of a predefined epoch. The burn amount will equal the total reserve replenishment allocated under this proposal. As a result, the restoration of the QVAULT and QBOND reserves will not increase the overall QUBIC supply. Following execution, the contract will revert to its standard operating behavior.
+**Technical implementation:** To maintain supply neutrality, the SupplyWatcher contract will be modified to execute a one-time burn at the start of a predefined epoch (epoch 219). The burn amount will equal the total reserve replenishment allocated under this proposal. As a result, the restoration of the QVAULT and QBOND reserves will not increase the overall QUBIC supply. Following execution, the contract will revert to its standard operating behavior.
 
 Reference:
 https://github.com/qubic/core/blob/main/src/contracts/SupplyWatcher.h
